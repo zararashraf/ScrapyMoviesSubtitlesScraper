@@ -24,7 +24,7 @@ The Website in question.
 ![image (3)](https://github.com/zararashraf/ScrapyMoviesSubtitlesScraper/assets/36181292/199acda7-c2e9-45cd-8ac5-44bbb4a1bbf6)
 
 Data in SQLite DB
-![image (2)](https://github.com/zararashraf/ScrapyMoviesSubtitlesScraper/assets/36181292/703b6491-355f-4015-b626-fe0ca050f407)
+
 
 Data in MongoDB Atlas
 ![image](https://github.com/zararashraf/ScrapyMoviesSubtitlesScraper/assets/36181292/4adcf6db-3004-485c-8695-9846101e1e86)
